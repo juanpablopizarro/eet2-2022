@@ -97,8 +97,9 @@ Esto favorece a que los requerimientos puedan cambiar ya que en las sucesivas it
 ### Espiral (Spiral)
 Luego de Waterfall y Mejora Continua vino el modelo de espiral creado por Barry Boehm en 1986. No vamos a explicar en detalle este modelo para poder ir al modelo mas utilizado hoy en dia pero para dejar una idea del mismo, Boehm establece que el model espiral es un modelo dirigido por los riesgos y va incrementalmente añadiendo funcionalidad al alcance del desarrollo o producto, pero simpre monitoreando los riesgos. Este modelo aparece porque aun con el modelo de mejora continua, los proyecto grandes se pasaban en presupuesto o en tiempo y desembocaban en un fracaso. Para mayor detalle dejo este [link](https://es.wikipedia.org/wiki/Desarrollo_en_espiral). Visto en un diagrama seria:
 
-
-![modelo espiral](/assets/img/ModeloEspiral.png "Modelo Espiral")
+<p align="center">
+<img src="./assets/img/ModeloEspiral.png" alt="Modelo Espiral" width="50%"/>
+</p>
 
 Algo importante a destacar es que las actividades de cada uno de los cuadrantes no son fijas, se definen los que estan haciendo el proyecto y tambien que cada etapa o actividad nace del analisis de riesgo de la etapa anterior.
 
