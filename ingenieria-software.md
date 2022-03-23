@@ -105,9 +105,8 @@ Algo importante a destacar es que las actividades de cada uno de los cuadrantes 
 ### Agil (Agile)
 El desarrollo agil es una especie de paraguas que contiene varias metodologias, frameworks (marcos de trabajo) y mejores practicas que ayudan a desarrollar software en una forma mas adecuada a la velocidad de cambios de requerimientos, presupuestos y equipos. Para mas informacion se puede leer la definicion en [agilealliance.org](https://www.agilealliance.org/agile101). Podemos decir que:
 
-<pre>
-El desarrollo ágil aboga por la creación de software de forma incremental iterando en ciclos múltiples, aunque relativamente cortos. Los requerimientos son desarrollados por equipos con roles determinados y auto gestionados, fomentando la colaboracion entre los distintos miembros.
-</pre>
+>El desarrollo ágil aboga por la creación de software de forma incremental iterando en ciclos múltiples, aunque relativamente cortos. Los requerimientos son desarrollados por equipos con roles determinados y auto gestionados, fomentando la colaboracion entre los distintos miembros.
+
 
 Agile es basicamente un manifesto que establece lo que detallamos en el parrafo anterior y dio lugar a muchas metodologias que iremos explorando a continuacion.
 
