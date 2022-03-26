@@ -150,7 +150,21 @@ La daily meeting o standup es una ceremonia corta y diaria en la cual los partic
 
 Dar visibilidad de lo que uno hace e hizo al resto del equipo ayuda a que el resto del equipo se involucre y en el caso de existir bloqueos probablemente se resuelvan con reuniones posteriores o con la simple opinion del equipo. Las dailies son reuniones que generalmente estan al inicio del dia. Estas reuniones son rapidas y concretas, no se debe profundizar en temas y cuando se generan discusiones o se extiende un tema en particular el scrum master debe cortar la discusion y asi no retrasar a todo el equipo. Las plannings son reuniones donde el equipo hablar con el scrum master para entender el scope o alcance del sprint. En esta reunion el equipo se compromete a desarrollar un volumen de trabajo determinado para el proximo sprint y por lo tanto es clave que se evacuen todas las dudas y se estime el esfuerzo que requiere cada una de las tareas, de este modo se puede incluir o dejar fuera del sprint alguna tarea en particular. Por ultimo estan las reuniones de retrospectiva (retrospectives) donde el equipo (y solo el equipo) habla de lo que se hizo bien en el sprint, lo que se podria mejorar y se detallan algunas acciones concretas para que no vuelva a ocurrir.
 
+Para mas informacion se puede comenzar por [scrum en la wikipedia](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)).
+
 #### KANBAN
+Kanban es otro framework popular de agile. Kanban se basa en el kanban board que es basicamente una distribucion de tareas en una lineas de trabajo verticales en las que se detalla un estado en particular.
+
+Como dijimos en el parrafo anterior, el kanban board se compone de work lanes (columnas de trabajo) con un label (titulo) asociado y una lista de tareas con un orden determinado. La transicion entre columnas o work lanes es basicamente como van cambiando de estado las tareas y al ser finalizadas se las quita del board comunmente archivandolas. Usualmente los work lanes son:
+
+- **Backlog**: contiene la lista de tareas a realizar y es desde donde se toman las tareas.
+- **doing**: aca estan las tareas (con un owner o responsable) que se estan desarrollando.
+- **review**: en esta columna aparecen las tareas que estan terminadas pero a la espera de un testeo o review por parte de otros integrantes del equipo.
+- **done**: aca estan las tareas terminadas
+
+En algunos equipos hay variaciones en las que se agregan columnas, por ejemplo "QA", "blocked" etc. Generalmente un developer que no tiene asignaciones concretas toma una tarea del backlog y la pone en doing mientras le agrega diariamente status u horas trabajadas, cuando la termina pasa esta tarea a review para hacer un testeo funcional con algun otro miembro del equipo y una vez que esta lista y deployada se la pasa a done.
+
+Para mas informacion se puede comenzar a leer desde la [wikipedia.](https://es.wikipedia.org/wiki/Kanban_Tool).
 
 #### Otros
 Existen otros modelos de desarrollo de software mas modernos que los anteriores como por ejemplo DevOps que utiliza a su vez otro llamado CAMS (Culture, Automation, Measurement and Sharing) y otros mas. Estos modelos usan el principio que cada equipo es responsable por el servicio o componente que estan desarrollando desde el entendimiento del alcance (scope), la implementacion, despliegue en produccion y monitores post produccion, basicamente todo lo que implica ese servicio o componente. Se pueden encontrar detalles en este [link](https://en.wikipedia.org/wiki/DevOps) y este [otro](https://medium.com/@raycad.seedotech/devops-methodology-and-process-dde388eb65bd).
