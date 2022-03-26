@@ -123,6 +123,32 @@ Lean es uno de los primero en la familia de agile, este aparece en 2003. Este mo
 7. **Optimizar el todo**: El proceso de desarrollo de una organizacion debe ser visto como un proceso interconectado de actividades y debe ser optimizado como un todo. Las organizaciones comunmente se dejan llevar por otros de los puntos de lean como por ejmplo entregas rapidas y focalizan toda la optimizacion en un solo aspecto y no en todo el proceso de desarrollo llevando a la suboptimizacion del proceso o incluso a problemas peores. Un ejemplo comun es optimizar las entregas rapidas y esto genera que el equipo potencialmente genere codigo complejo y con errores que en el tiempo se van acumulando y haciendo cada vez mas complejos hasta el punto de que no se pueden resolver o el retrabajo es inmenso. Esto generalmente ocurre cuando no solo se le pide al equipo que entregue rapido sino tambien que no vaje la velocidad de produccion, no pudiendo atender calidiad.
 
 #### SCRUM
+Scrum es la metodologia agil mas usada hoy en la industria, se utiliza tanto que incluso hay empresas que viven de dar cursos y certificaciones de scrum. Scrum se usa en proyectos largo donde el trabajo a realizar se puede cortar o separar en porciones a desarrollar por un equipo multifuncional durante unas pocas semanas (2 a 4). Un sprint es una porcion de trabajo hecha en ese periodo de tiempo.
+
+A diferencia de de las metodologias vista hasta el momento, scrum se concentra en un ciclo de empirico repetitivo y no en un proceso bien definido a seguir. Basicamente el equipo recibe un volumen de trabajo a desarrollar en un sprint, entonces se genera una idea o plan de como desarrollarlo y se pone en practica durante el sprint. Una vez finalizado el sprint el equipo hace una analisis de como mejorar esa idea o plan. Con las sucesivas iteraciones el equipo aprende a comunicarse y auto gestionarse como asi tambien a hacer foco en el desarollo dado que al haber mejor comunicacion hay menos distracciones. Los equipos generalmente observan que mejoran en rendimiento y esto es conocido como velocidad del equipo o en la jerga de agile, team velocity.
+
+Todos los miembros de los equipos que usan scrum pueden ser mapeados a los siguientes roles:
+- Product Owner (PO)
+- Desarrollador (Developer)
+- Scrum Master (SM)
+
+El product owner es el encargado de manejar el backlog, que es una lista de tareas a desarrollar. El product owner es el responsable de que las tareas que forman parte del backlog estes escritas de forma que sean claras, consistentes, sin ambiguedades. El backlog es una lista de tareas de naturaleza dinamica, no se debe asumir que lo que esta en el backlog no va a cambiar en los sucesivos sprints.
+
+El equipo de desarollo, como se dijo antes, es un equipo multifuncional, es decir, es un equipo que esta compuesto por integrantes que vienen de diferentes disciplinas y skills o habilidades. El equipo debe tener el mindset (mentalidad) de equipo y no de individuos, esto es, si alguien falla el equipo completo falla.
+
+El scrum master es un rol que da soporte tanto al development team como al product owner. Este rol es el responsable de que todos tengan un entendimiento claro de los procesos de scrum como asi tambien de las ceremonias (reuniones).
+
+Las ceremonias de scrum son basicamente:
+- dailies (standup)
+- plannings
+- retrospectives
+
+La daily meeting o standup es una ceremonia corta y diaria en la cual los participantes responden 3 preguntas basicas:
+- en que estuve trabajando ayer
+- en que voy a trabajar hoy
+- tengo algun blocker?
+
+Dar visibilidad de lo que uno hace e hizo al resto del equipo ayuda a que el resto del equipo se involucre y en el caso de existir bloqueos probablemente se resuelvan con reuniones posteriores o con la simple opinion del equipo. Las dailies son reuniones que generalmente estan al inicio del dia. Estas reuniones son rapidas y concretas, no se debe profundizar en temas y cuando se generan discusiones o se extiende un tema en particular el scrum master debe cortar la discusion y asi no retrasar a todo el equipo. Las plannings son reuniones donde el equipo hablar con el scrum master para entender el scope o alcance del sprint. En esta reunion el equipo se compromete a desarrollar un volumen de trabajo determinado para el proximo sprint y por lo tanto es clave que se evacuen todas las dudas y se estime el esfuerzo que requiere cada una de las tareas, de este modo se puede incluir o dejar fuera del sprint alguna tarea en particular. Por ultimo estan las reuniones de retrospectiva (retrospectives) donde el equipo (y solo el equipo) habla de lo que se hizo bien en el sprint, lo que se podria mejorar y se detallan algunas acciones concretas para que no vuelva a ocurrir.
 
 #### KANBAN
 
