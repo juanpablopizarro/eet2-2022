@@ -213,4 +213,6 @@ Para más información se puede comenzar a leer desde la [wikipedia](https://es.
 ### Otros
 Existen otros modelos de desarrollo de software más modernos que los anteriores como por ejemplo DevOps que utiliza a su vez otro llamado CAMS (Culture, Automation, Measurement and Sharing) y otros más. Estos modelos usan el principio que cada equipo es responsable por el servicio o componente que están desarrollando desde el entendimiento del alcance (scope), la implementación, despliegue en producción y monitores post producción, básicamente todo lo que implica ese servicio o componente. Se pueden encontrar detalles en este link y este otro.
 
-
+<p align="center">
+<img src="./assets/img/devops.png" alt="devops" width="50%"/>
+</p>
