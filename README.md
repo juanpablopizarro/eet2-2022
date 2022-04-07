@@ -19,7 +19,8 @@ El seminario cuenta con aproximadamente 3 horas semanales, prácticas y cuestion
 Una definición formal de la ingeniería de software se puede encontrar en el [glosario de la ieee](https://ieeexplore.ieee.org/document/159342) donde se establece que:
 
 ```
-Software engineering is defined as the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software.
+Software engineering is defined as the application of a systematic, disciplined, quantifiable approach 
+to the development, operation, and maintenance of software.
 ```
 
 Esta definición establece que es la aplicación de un proceso (o aproximación) sistemático, disciplinado y cuantificable del desarrollo, operación y mantenimiento del software. Lo importante en la frase anterior es sistemático, disciplinado y cuantificable, entonces explorando los tres términos tenemos:
@@ -125,7 +126,9 @@ El desarrollo ágil es una especie de paraguas que contiene varias metodologías
 Podemos decir que:
 
 ```
-El desarrollo ágil va en favor de la creación de software de forma incremental iterando en ciclos múltiples, aunque relativamente cortos. Los requerimientos son desarrollados por equipos con roles determinados y auto gestionados, fomentando la colaboración entre los distintos miembros.
+El desarrollo ágil va en favor de la creación de software de forma incremental iterando en ciclos múltiples, 
+aunque relativamente cortos. Los requerimientos son desarrollados por equipos con roles determinados y 
+auto gestionados, fomentando la colaboración entre los distintos miembros.
 ```
 
 Agile es básicamente un manifiesto que establece lo que detallamos en el párrafo anterior y dio lugar a muchas metodologías que iremos explorando a continuación.
